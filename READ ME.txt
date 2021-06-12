@@ -1,0 +1,7 @@
+This is a small project, so don't expect the next Future Client.
+
+My IDE of choice when making this was IntelliJ IDEA.
+
+Requires Forge 1.12.2 14.23.5.2855 MINIMUM (possibly??).
+
+Anyway hope u enjoy.
