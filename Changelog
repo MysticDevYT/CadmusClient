@@ -1,3 +1,11 @@
+-v0.0.3-
+- Third release
+- Decided to switch to MCP
+- Added No Fall, Sprint, Fullbright, Suicide and a TabGUI.
+- TabGUI - Lets you toggle modules without a keybind. Still kinda in progress.
+- Better modules list.
+- When installing, it doesn't currently make a new installation, you have to do that yourself. If you need help with that, I suggest going to a mental health department.
+
 -v0.0.2-
 - Second Release
 - The Fly hack now works - Press 'F' to turn it on
