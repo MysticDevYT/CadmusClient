@@ -1,3 +1,13 @@
+-0.0.5-
+- Added MobESP, PlayerESP, ChestESP, CoordsHUD and OmniSprint as a seperate hack.
+- OmniSprint - Sprint in all directions. Hoping to add this as a mode of Sprint, and combine them. (Can trigger anticheats - use with caution)
+- Improved Fly
+- Sprint now only sprints when you walk forward, in an attempt to not trigger any anticheats.
+- Added a helpers list on the main menu. If you help me with the client, your name will be added there.
+
+-0.0.4-
+- Added Kill Aura
+
 -v0.0.3-
 - Third release
 - Decided to switch to MCP
