@@ -1,3 +1,8 @@
+-0.0.6-
+- Added Tracers and a ClickGUI
+- Tracers - Draws a line to all entities, Green for passive / animals, Red for mobs / enemies, Cyan for players.
+- ClickGUI - Open with right shift, click on modules to toggle them.
+
 -0.0.5-
 - Added MobESP, PlayerESP, ChestESP, CoordsHUD and OmniSprint as a seperate hack.
 - OmniSprint - Sprint in all directions. Hoping to add this as a mode of Sprint, and combine them. (Can trigger anticheats - use with caution)
