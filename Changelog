@@ -1,3 +1,9 @@
+-0.0.7-
+- Added PlayerAimbot, EntityAimbot, AirJump, AutoWalk, ClientName, Step, and Jetpack.
+- Added module state saving. So you don't have to re-enable the modules each time you load up the client.
+- Hovering over modules in the ClickGUI now shows what they do at the top of the screen.
+- All of this took about 12 hours of coding. Support would be greatly appreciated.
+
 -0.0.6-
 - Added Tracers and a ClickGUI
 - Tracers - Draws a line to all entities, Green for passive / animals, Red for mobs / enemies, Cyan for players.
