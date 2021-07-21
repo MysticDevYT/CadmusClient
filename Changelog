@@ -12,6 +12,7 @@
 - Client settings - "Rainbow": yea rainbows n shit, "FPSDisplay": Shows your FPS in the bottom left. "ClientName" and "Panic" have both been moved to this category.
 - Added: AutoLog: Auto Disconnects when you are below 3 hearts of health, AutoMine: holds down your attack / mine button (DOES NOT SPAM CLICK).
 - Keybind saving.
+- A new loading screen (logo is bacically the Mojang logo but reshaped into a 'C')
 
 -0.0.7 [PATCH 1]-
 - Fixed a bug where it would show a scrapped-but-not-deleted feature. (Custom main menu that I gave up on cause it looked shit)
