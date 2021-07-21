@@ -1,3 +1,18 @@
+-0.0.8-
+- Complete GUI redo
+- Cleaner TabGUI
+- New Font (Doesn't replace everything tho)
+- Smaller toggled modules list
+- Potion / Mob effects now render at the bottom of the screen, as opposed to the top, to prevent overlaying ETC
+- Added Commands!
+- Commands: Toggle and Bind. Command prefix = '.' (put this at the beginning of a command for it to work.)
+- Toggle - use the syntax ".toggle <module>" OR ".t <module>".
+- Bind - use the syntax ".bind <module> <key>" OR ".b <module> <key>". Another use is ".b clear all" or ".b clear <module>". (it gets rid of any keybind, yes you can use .bind instead)
+- Client Settings.
+- Client settings - "Rainbow": yea rainbows n shit, "FPSDisplay": Shows your FPS in the bottom left. "ClientName" and "Panic" have both been moved to this category.
+- Added: AutoLog: Auto Disconnects when you are below 3 hearts of health, AutoMine: holds down your attack / mine button (DOES NOT SPAM CLICK).
+- Keybind saving.
+
 -0.0.7 [PATCH 1]-
 - Fixed a bug where it would show a scrapped-but-not-deleted feature. (Custom main menu that I gave up on cause it looked shit)
 
