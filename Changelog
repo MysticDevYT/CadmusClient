@@ -1,3 +1,14 @@
+-0.1-
+- Tenth Release!
+- Discord Server! Can be accessed through the Cadmus button on the main menu.
+- Improved ClickGUI!
+- Settings can now be accessed through the ClickGUI, by right-clicking on a module.
+- Added AutoSword (Automatically swaps to your sword when your attack), AutoTotem (Automatically puts Totems into your offhand), Elytra+ (You don't need rockets to fly).
+- Improved HUD, ESP, Tracers, KillAura.
+- Improved Module Saving!
+- Themes! The ClickGUI and TabGUI now have themes that you can select in their respective settings.
+- Added Help command. Usage: .help
+
 -0.0.9-
 - CrystalAura
 - Settings (Can only be changed through the TabGUI currently, press enter/return whilst hovering over a module.)
