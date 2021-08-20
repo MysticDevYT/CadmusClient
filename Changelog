@@ -1,3 +1,11 @@
+-0.3-
+- More ClickGUI customization. A command added: .gui scale <size> | reset
+- Font switcher
+- Auto Armor, AutoSword, Spider, Speed, Freecam, NoBreakDelay, Nametags and StorageESP.
+- Added two new modes to ESP - Outline and FilledBox.
+- Added TabGUI and ClickGUI customization. You can change the size by changing the slider setting under ClickGUI and then pressing reset.
+- There is a module called 'Refresh' this is purely for development purposes (I forgot to remove it lmao)
+
 -0.2-
 - Much better ClickGUI, no more seperate settings screen.
 - AutoTotem is now called Offhand, with 5 modes, being Totem, Gapple, Crystal, Pearl, and Chorus.
