@@ -16,4 +16,4 @@ Default prefix: .
 - Gui    [Syntax: gui scale <val> | reset]
 - Friend [Syntax: fr <add | remove> <name>]                       // IN BETA, DO NOT RELY ON IT TO WORK
 - Prefix [Syntax: prefix <prefix>]
-- Color  [Syntax: color <color> <value> || color preset <color>]  // TRY INGAME FOR LIST OF COLOURS
+- Color  [Syntax: color <color> <value> | color preset <color>]  // TRY INGAME FOR LIST OF COLOURS
