@@ -1,4 +1,4 @@
-# CadmusClient
+# Cadmus Client
 A small utility client I'm making in my spare time for Minecraft 1.12.2
 
 Intended for anarchy. However, not really intended for PVP, however I have put some basic Combat modules in it
