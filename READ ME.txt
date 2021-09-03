@@ -1,9 +1,0 @@
-This is a small project, so don't expect the next Future Client.
-
-My IDE of choice when making this was Eclipse.
-
-It uses MCP 1.12.2.
-
-Anyway hope u enjoy.
-
-Either download the jar and json files from here and put them in your versions folder and stuff, or use CadmusInstaller.exe.
