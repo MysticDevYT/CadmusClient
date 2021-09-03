@@ -4,60 +4,6 @@ A small utility client I'm making in my spare time for Minecraft 1.12.2
 Intended for anarchy. However, not really intended for PVP, however I have put some basic Combat modules in it
 such as KillAura and AutoTotem. The CrystalAura is the worst CA you will ever see.
 
-List of modules:
-
-If the module has a '*' next to it's name, it is generally settings for something, E.G. Colors, or TileEntities
-
-- Combat -
-- CrystalAura
-- KillAura
-- Aimbot
-- Offhand
-- AutoSword
-- AutoArmour
-
-- Movement -
-- Fly
-- Sprint
-- NoFall
-- Step
-- AirJump
-- Jetpack
-- AutoWalk
-- ElytraPlus
-- FastLadder
-- Speed
-- Spider
-
-- Render -
-- Fullbright
-- ESP
-- StorageESP
-- Tracers
-- Nametags
-
-- Player -
-- AutoMine
-- NoBreakDelay
-
-- Misc -
-- ChestStealer *
-- AutoDisconnect
-- Timer
-
-- Client -
-- Panic 
-- ClickGUI
-- Saving *
-- Font *
-- TabGUI
-
-- Other -
-- Colors *
-- HUD *
-- Shader
-- TileEntities *
-
 Total amount of modules: 36
 
 List of Commands:
