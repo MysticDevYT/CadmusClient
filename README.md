@@ -19,7 +19,7 @@ such as KillAura and AutoTotem. The CrystalAura is the worst CA you will ever se
 
 Total amount of modules: 37
 
-List of Commands:
+# Commands
 
 Default prefix: .
 
