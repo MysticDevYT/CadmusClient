@@ -4,7 +4,7 @@ A small utility client I'm making in my spare time for Minecraft 1.12.2
 Client Version - 0.4
 
 # Description
-Intended for anarchy. However, not really intended for PVP, however I have put some basic Combat modules in it
+Intended for anarchy. However, not really intended for PVP, however I have put some basic combat modules in it
 such as KillAura and AutoTotem. The CrystalAura is the worst CA you will ever see.
 
 # Latest Update Patch Notes
